@@ -58,7 +58,7 @@ setuptools.setup(
         "six == 1.16.0",
         "toml == 0.10.2",
         "tzlocal == 2.1",
-        "urllib3 == 1.26.5",
+        "urllib3 == 1.26.18",
         "utils == 1.0.1",
         "virtualenv == 20.4.7",
         "wcwidth == 0.2.5",
