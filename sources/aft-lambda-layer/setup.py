@@ -45,7 +45,7 @@ setuptools.setup(
         "ply == 3.11",
         "py == 1.10.0",
         "pycparser == 2.20",
-        "Pygments == 2.10.0",
+        "Pygments == 2.15.0",
         "pyparsing == 2.4.7",
         "pyrsistent == 0.17.3",
         "python-dateutil == 2.8.1",
