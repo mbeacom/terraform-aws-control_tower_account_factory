@@ -63,7 +63,7 @@ setuptools.setup(
         "virtualenv == 20.4.7",
         "wcwidth == 0.2.5",
         "whaaaaat == 0.5.2",
-        "Jinja2 == 3.0.3",
+        "Jinja2 == 3.1.3",
         "jsonschema == 4.3.2",
     ],
     extras_require={
